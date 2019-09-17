@@ -15,3 +15,5 @@
 |   2   |   7   |   6   |
 
 :smile:
+
+![NKFUST](nkust.png "第一科大")
